@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794010994762",
+    "project_id": "medialogin-f4c04",
+    "storage_bucket": "medialogin-f4c04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794010994762:android:e4ca6e55a15c99cff53eb3",
+        "android_client_info": {
+          "package_name": "com.example.google_media_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794010994762-ok6ee8vkaiqbnovc43phka33i8nq55g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqNqq8q9yBh2SivjsdUG8VMi_PUhUpxmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794010994762-ok6ee8vkaiqbnovc43phka33i8nq55g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
